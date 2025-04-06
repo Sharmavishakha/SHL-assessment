@@ -1,0 +1,1835 @@
+[
+    
+    {
+        "assessment_name": "Account Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+        "description": "The Account Manager solution is an assessment used for job candidates applying to mid-level leadership positions that tend to manage the day-to-day operations and activities of client accounts. Sample tasks for these jobs include, but are not limited to: communicating with clients about project status, developing and maintaining project plans, coordinating internally with appropriate project personnel, and ensuring client expectations are being met. Potential job titles that use this solution are: Account Executive, Account Manager, and Senior Account Manager. There are multiple configurations of this solution available.",
+        "job_level": "Mid-Professional",
+        "languages": ["English (USA)"],
+        "duration_minutes": 49,
+        "test_type": ["Competencies", "Personality & Behavior","Ability & Aptitude","Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Account%20Manager%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+        "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+        "job_level": "Entry-Level",
+        "languages": ["English (USA)"],
+        "duration_minutes": 36,
+        "test_type": ["Ability & Aptitude","Knowledge & Skills","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Administrative%20Professional%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Agency Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/",
+        "description": "The Agency Manager solution is for mid-level sales management positions that include front line management and sales responsibilities. Sample tasks for this job include, but are not limited to: directing and coordinating financial activities of workers in a branch, office, or department of an establishment, such as branch bank, brokerage firm, risk and insurance department, or credit department. Potential job titles that use this solution are: Agency Manager, Brokerage Manager. Multiple configurations of this solution are available.",
+        "job_level": ["Front Line Manager", "Manager", "Supervisor"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 51,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet": "https://service.shl.com/docs/Fact%20Sheet_%20Agency%20Manager%20Solution%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Apprentice + 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+        "description": "The Apprentice + 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organisations whose business spans across regions.",
+        "job_level": ["General Population", "Graduate", "Entry-Level"],
+        "languages": ["English International","German"],
+        "duration_minutes": 30,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English International": {
+            "detailed_report": "https://service.shl.com/docs/Apprentice%20%2B8.0%20-%20Detailed%20Sample%20Report%20(English%20-%20Aug%202023).pdf",
+            "candidate_report": "https://service.shl.com/docs/Apprentice%20%2B8.0%20-%20Candidate%20Sample%20Report%20(English%20-%20Aug%202023).pdf",
+            "interview_report": "https://service.shl.com/docs/Apprentice%20%2B8.0%20-%20Interview%20Sample%20Report%20(English%20-%20Aug%202023).pdf",
+            "fact_sheet": "https://service.shl.com/docs/Apprentice%20%2B8.0%20JFA%20Product%20Fact%20Sheet.pdf"
+           },
+           "German": {
+            "detailed_report": "https://service.shl.com/docs/Apprentice%20%2B8.0%20-%20Detailed%20Sample%20Report%20(German%20-%20Aug%202023).pdf",
+            "candidate_report": "https://service.shl.com/docs/Apprentice%20%2B8.0%20-%20Candidate%20Sample%20Report%20(German%20-%20Aug%202023).pdf",
+            "interview_report": "https://service.shl.com/docs/Apprentice%20%2B8.0%20-%20Interview%20Sample%20Report%20(German%20-%20Aug%202023).pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Apprentice 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+        "description": "The Apprentice 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organizations whose business spans across regions.",
+        "job_level": ["Entry-Level","General Population", "Graduate"],
+        "languages": ["English International","German","French"],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English International": {
+            "detailed_report": "https://service.shl.com/docs/Apprentice8.0_DetailedReport_INT.pdf",
+            "candidate_report": "https://service.shl.com/docs/Apprentice8.0_CandidateReport_INT.pdf",
+            "interview_report": "https://service.shl.com/docs/Apprentice8.0_InterviewReport_INT.pdf",
+            "fact_sheet": "https://service.shl.com/docs/Apprentice%208.0%20JFA%20Fact%20Sheet.pdf"
+           },
+           "German": {
+            "detailed_report": "https://service.shl.com/docs/Apprentice8.0_DetailedReport_DEU.pdf",
+            "candidate_report": "https://service.shl.com/docs/Apprentice8.0_CandidateReport_DEU.pdf",
+            "interview_report": "https://service.shl.com/docs/Apprentice8.0_InterviewReport_DEU.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Bank Administrative Assistant - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+        "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs include, but are not limited to: answering telephones, managing files and records, sorting mail, greeting customers, and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. There are multiple configurations of this solution available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 35,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Administrative%20Assistant%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Bank Collections Agent - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-collections-agent-short-form/",
+        "description": "This solution is for entry-level collections positions in an inbound or outbound call center environment in a financial setting. Candidates answer multiple choice questions to measure achievement orientation, dependability, collector numerical skills, revenue recovery, customer focus, and persistence and planfulness. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 45,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet_bank_collections_agent_one_sitting": "https://service.shl.com/docs/Fact%20Sheet%20Bank%20Collections%20Agent%20One%20Sitting.pdf"
+        }
+      },
+      {
+        "assessment_name": "Bank Operations Supervisor - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/",
+        "description": "The Bank Operations Supervisor solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills ; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, First Line Supervisor, Processing Supervisor, Call Center Supervisor, and Customer Service Supervisor. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Front Line Manager", "Manager, Supervisor"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 45,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Bank%20Operations%20Supervisor%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Bilingual Spanish Reservation Agent Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+        "description": "The Bilingual Reservation Agent solution is designed for customer centered entry-level positions within the hospitality industry. Sample tasks may include making, updating, or canceling hotel reservations made in English or Spanish; listening to customers speak Spanish and entering information into a computer in English; providing information on the hotel and the services offered. Potential job titles that use this solution are: Bilingual Reservation Agent, Customer Service Representative and Reservationist. Multiple configurations of this solution are available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)","Latin American Spanish"],
+        "duration_minutes": 43,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior","Simulations","Ability & Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+          "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Bilingual%20Reservation%20Agent%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 49,
+        "test_type": ["Personality & Behavior","Simulations","Knowledge & Skills","Biodata & Situational Judgement","Ability & Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+          "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Bookkeeping,%20Accounting,%20Auditing%20Clerk%20-%20Short%20Form.pdf"
+        }
+      },
+      {
+        "assessment_name": "Branch Manager - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/",
+        "description": "This solution is for mid to upper-level financial institution managerial positions. Candidates answer a series of multiple choice questions to measure management potential, management judgment, leadership potential, team management, branch manager problem solving, business leadership, leadership motivation, interpersonal leadership, self leadership, and branch manager judgment. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Front Line Manager", "Manager", "Supervisor"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 50,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Branch%20Manager%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Cashier Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/",
+        "description": "The Cashier solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 28,
+        "test_type": ["Biodata & Situational Judgement","Ability & Aptitude","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet_cashier_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20Cashier%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Claims/Operations Supervisor Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/claimsoperations-supervisor-solution/",
+        "description": "The Claims/Operations Supervisor solution is for entry-level management positions that involve supervising hourly employees. Sample tasks for this job include, but are not limited to: planning and preapring work schedules; assigning employees to specific dutites; coaching employees on attendance, conduct, schedule adherence, and work tasks; developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, Coach, First Line Supervisor, Claims Supervisor, Operations Supervisor, and Customer Service Supervisor. Multiple configurations of this solution are available.",
+        "job_level": ["Manager"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 48,
+        "test_type": ["Personality & Behavior","Simulations","Ability & Aptitude","Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet_%20Claims%20Operations%20Supervisor%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Contact Center Customer Service + 8.0",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0/",
+        "description": "The Contact Center + 8.0 - Customer Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact center roles where the main focus is customer service. This JFA includes a mobile-optimized contact center simulation, a behavioral assessment, and a cognitive test. Together, these assessments capture the ability to provide exceptional customer service in entry-level contact center roles.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)", "English International", "French", "German", "Latin American Spanish", "Chinese Simplified", "Portuguese (Brazil)", "Japanese"],
+        "duration_minutes": 41,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Competencies","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "detailed_report": "https://service.shl.com/docs/Contact%20Centre%2B8.0_SampleDetailed%20Report.pdf",
+            "candidate_report": "https://service.shl.com/docs/Contact%20Centre%2B8.0_SampleCandidate%20Report.pdf",
+            "interview_report": "https://service.shl.com/docs/Contact%20Centre%2B8.0_SampleInterview%20Report.pdf",
+            "product_fact_sheet": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%20%2B%208.0%20JFA%20Product%20Fact%20Sheet.pdf"
+           },
+           "Japanese": {
+            "detailed_report": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%20%2B%208.0%20Detailed%20Report%20Japanese.pdf",
+            "candidate_report": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%20%2B%208.0%20Candidate%20Report%20Japanese.pdf",
+            "interview_report": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%20%2B%208.0%20Interview%20Report%20Japanese.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Contact Center Customer Service 8.0",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+        "description": "The Customer Service 8.0 JFA is designed for entry-level positions in a contact center environment where the main focus is customer service.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)", "German", "Portuguese (Brazil)", "English International", "Latin American Spanish", "French (Canada)", "French"],
+        "duration_minutes": 31,
+        "test_type": ["Simulations","Biodata & Situational Judgement","Competencies","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+            "French (Canada)":{
+                "interview_report":"https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20Interview%20Report%20Canadian%20French.pdf",
+                "detailed_report":"https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20Detailed%20Report%20Canadian%20French.pdf",
+                "candidate_report":"https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20Candidate%20Report%20Canadian%20French.pdf"
+            },
+          "English (USA)": {
+            "detailed_report": "https://service.shl.com/docs/CustomerService8.0_DetailedReport_USE.pdf",
+            "candidate_report": "https://service.shl.com/docs/CustomerService8.0_CandidateReport_USE.pdf",
+            "interview_report": "https://service.shl.com/docs/CustomerService8.0_InterviewReport_USE.pdf",
+            "product_fact_sheet": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20JFA%20Product%20Fact%20Sheet.pdf"
+           },
+           "Japanese": {
+            "detailed_report": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20Detailed%20Report%20Japanese.pdf",
+            "candidate_report": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20Candidate%20Report%20Japanese.pdf",
+            "interview_report": "https://service.shl.com/docs/Contact%20Center%20Customer%20Service%208.0%20Interview%20Report%20Japanese.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Contact Center Manager - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-manager-short-form/",
+        "description": "The Contact Center - Manager solution is for mid to upper-level contact center managerial positions. Sample tasks for these jobs include, but are not limited to: supervising and coordinating the activities of subordinates; interacting day-to-day with subordinates; and training employees. Potential job titles that use this solution are: Contact Center Team Leader, First Line Supervisor, and Contact Center Manager.",
+        "job_level": ["Manager"," Supervisor", "Front Line Manager"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 50,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet_cc_manager_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20CC%20Manager%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Contact Center Sales & Service + 8.0",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+        "description": "The Contact Center + 8.0 - Sales & Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact center roles that involve sales-related behaviors such as recommending products or services and retaining customers. This JFA includes a mobile-optimized contact center simulation, a behavioral assessment, and a cognitive test. Together, these assessments capture the ability to provide exceptional customer service and drive sales in entry-level contact center roles.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)", "English International"],
+        "duration_minutes": 41,
+        "test_type": ["Personality & Behavior","Biodata & Situational Judgement","Competencies","Ability & Aptitude","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "detailed_report": "https://service.shl.com/docs/Sales&Service%2B8.0_DetailedReport_USE.pdf",
+            "candidate_report": "https://service.shl.com/docs/Sales&Service%2B8.0_CandidateReport_USE.pdf",
+            "interview_report": "https://service.shl.com/docs/Sales&Service%2B8.0_InterviewReport_USE.pdf",
+            "product_fact_sheet": "https://service.shl.com/docs/Contact%20Center%20Sales%20&%20Service%20%2B%208.0%20JFA%20Product%20Fact%20Sheet.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Contact Center Sales & Service 8.0",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+        "description": "The Sales & Service 8.0 JFA is designed for contact center roles that involve sales or sales-related behaviors such as recommending products or services and retaining customers.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)", "English International"],
+        "duration_minutes": 31,
+        "test_type": ["Simulations","Biodata & Situational Judgement","Competencies","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "detailed_report": "https://service.shl.com/docs/Sales&Service8.0_DetailedReport_USE.pdf",
+            "candidate_report": "https://service.shl.com/docs/Sales&Service8.0_CandidateReport_USE.pdf",
+            "interview_report": "https://service.shl.com/docs/Sales&Service8.0_InterviewReport_USE.pdf",
+            "product_fact_sheet": "https://service.shl.com/docs/Contact%20Center%20Sales%20&%20Service%208.0%20JFA%20Product%20Fact%20Sheet.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Contact Center Team Lead/Coach - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+        "description": "The Contact Center - Team Lead/Coach solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules; assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks; developing employees' skills; training subordinates or less tenured peers; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, Coach, First Line Supervisor, Processing Supervisor, Call Center Supervisor, and Customer Service Supervisor.",
+        "job_level": ["Front Line Manager", "Professional Individual Contributor", "Supervisor"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 45,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "fact_sheet_cc_team_lead_coach_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20CC%20Team%20Lead%20Coach%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Contact Centre Agent Solution - UK",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-centre-agent-solution-uk/",
+        "description": "This solution is used for job candidates applying to entry-level positions in a contact centre environment where the main focus of the job is customer service. The candidate answers multiple choice questions as well as questions in a customer call simulation environment. The solution measures: working with information, customer focus, contact centre retention, navigation, service orientation, and tactful problem solving. In addition, the solution measures data entry speed and accuracy, multi-tasking preferences, achievement orientation and conscientiousness.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English International"],
+        "duration_minutes": 39,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English International": {
+            "product_fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Contact%20Centre%20Agent%20-%20UK%20Short%20Form.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Customer Service - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form/",
+        "description": "The Customer Service Representative Solution is for entry-level positions that involve a high degree of interaction with customers in person or on the phone. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; responding positively to difficult customers; referring unresolved issues to the appropriate individuals; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Customer Service Agent.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)","English International"],
+        "duration_minutes":42,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "fact_sheet_customer_service_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20Customer%20Service%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Customer Service - Short Form - UK",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-short-form-uk/",
+        "description": "The Customer Service Representative solution is for entry-level positions that involve a high degree of interaction with customers in person or on the phone. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; responding positively to difficult customers; referring unresolved issues to the appropriate individuals; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Customer Service Agent.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English International"],
+        "duration_minutes":42,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true
+      },
+      {
+        "assessment_name": "Customer Service with Sales - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-with-sales-short-form/",
+        "description": "The Customer Service with Sales solution is for entry-level positions that involve both providing service and support to customers and selling goods and services. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; selling products and services; responding positively to difficult customers; adding new goods and services to existing accounts; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Sales Representative.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English(USA)"],
+        "duration_minutes":44,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "fact_sheet_customer_service_with_sales_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20Customer%20Service%20with%20Sales%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Director - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/director-short-form/",
+        "description": "The Director solution is intended for use with senior level positions responsible for the planning, directing, or coordinating key business activities and operations of companies. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources. Potential job titles that use this solution are: Director, Regional Director, and Director of Operations.",
+        "job_level": ["Director"],
+        "languages": ["English (USA)"],
+        "duration_minutes":69,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "fact_sheet_director_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20Director%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "District/Regional Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/districtregional-manager-solution/",
+        "description": "The District/Regional Manager solution is for mid- to senior-level managerial positions that oversee multiple stores within a defined area. Sample tasks for these jobs include, but are not limited to: directing a group of supervisors or managers, having profit and loss responsibility for a district or region, and aligning work with overall company goals. Potential job titles that use this solution are: Regional Director, District Manager, General Manager, Regional Manager, Store Manager, and Area Manager. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Manager"],
+        "languages": ["English (USA)"],
+        "duration_minutes":65,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "fact_sheet_district_regional_manager_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20District%20Regional%20Manager%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Entry Level Cashier 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+        "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+        "job_level": ["Entry-Level"],
+        "languages": ["French (Canada)", "Latin American Spanish", "English (USA)", "English International"],
+        "duration_minutes": 18,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior","Ability & Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+            "French (Canada)":{
+                "interview_report":"https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Interview%20Report_CFR.pdf",
+                "detailed_report":"https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Detailed%20Report_CFR.pdf",
+                "candidate_report":"https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Candidate%20Report_CFR.pdf"
+            },
+          "Latin American Spanish": {
+            "detailed_report": "https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Detailed%20Report_NAS.pdf",
+            "candidate_report": "https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Candidate%20Report_NAS.pdf",
+            "interview_report": "https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Interview%20Report_NAS.pdf"
+           },
+           "English (USA)": {
+            "detailed_report": "https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Detailed%20Report_USE.pdf",
+            "candidate_report": "https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Candidate%20Report_USE.pdf",
+            "interview_report": "https://service.shl.com/docs/Entry%20Level%20Cashier%207.1(Americas)_Sample%20Interview%20Report_USE.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Entry Level Cashier 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+        "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 18,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true
+      },
+      {
+        "assessment_name": "Entry Level Customer Service 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+        "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organization’s products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\n\n*IMPORTANT: Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas.*",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "German", "Finnish", "Portuguese (Brazil)", "English (USA)", "Norwegian",
+            "Dutch", "Arabic", "Swedish", "French (Canada)", "Italian", "Danish",
+            "English International", "Chinese Simplified", "Latin American Spanish",
+            "French"
+        ],
+        "duration_minutes": 19,
+        "test_type": ["Competencies", "Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+            "English International": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_INT.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_INT.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_INT.pdf"
+            },
+            "French (Canada)": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_CFR.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_CFR.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_CFR.pdf"
+            },
+            "Latin American Spanish": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_ELA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_ELA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_ELA.pdf"
+            },
+            "English (USA)": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_USE.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_USE.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_USE.pdf"
+            },
+            "Arabic": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_ARB.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_ARB.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_ARB.pdf"
+            },
+            "Chinese Simplified":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_CHS.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_CHS.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_CHS.pdf"
+            },
+            "Danish":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_DAN.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_DAN.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_DAN.pdf"
+            },
+            "Dutch":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_NED.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_NED.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_NED.pdf"
+            },
+            "Finnish":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_FIN.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_FIN.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_FIN.pdf"
+            },
+            "French":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_FRA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_FRA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_FRA.pdf"
+            },
+            "German":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_DEU.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_DEU.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_DEU.pdf"
+            },
+            "Italian":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_ITA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_ITA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_ITA.pdf"
+            },
+            "Norwegian":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_NOR.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_NOR.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_NOR.pdf"
+            },
+            "Swedish":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_SVE.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_SVE.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_SVE.pdf"
+            },
+            "Portuguese (Brazil)": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_CandidateReport_BRA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_DetailedReport_BRA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_Americas_InterviewReport_BRA.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Entry Level Customer Service 7.1 (International)",
+        "url": "http://shl.com/solutions/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+        "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.“IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "French", "Dutch", "English (USA)", "English International", "Italian", "German"
+        ],
+        "duration_minutes": 19,
+        "test_type": ["Competencies", "Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+            "English International": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_CandidateReport_UKE.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_DetailedReport_UKE.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_InterviewReport_UKE.pdf"
+            },
+            "English (USA)": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_CandidateReport_USE.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_DetailedReport_USE.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_InterviewReport_USE.pdf"
+            },
+            "Dutch":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_CandidateReport_Dutch.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_DetailedReport_Dutch.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_InterviewReport_Dutch.pdf"
+            },
+            "French ": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_CandidateReport_French.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_DetailedReport_French.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_InterviewReport_French.pdf"
+            },
+            "German":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_CandidateReport_German.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_DetailedReport_German.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_InterviewReport_German.pdf"
+            },
+            
+            "Italian":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_CandidateReport_ITA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_DetailedReport_ITA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService_(Retail%20and%20ContactCenter)_7.1_InterviewReport_ITA.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Entry Level Customer Service 7.1 (South Africa)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+        "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organization's products or services. Sample tasks for these jobs include but are not limited to interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.“IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "English International"
+        ],
+        "duration_minutes": 19,
+        "test_type": ["Competencies", "Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+            "English International": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_SouthAfrica_CandidateReport_UKE.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_SouthAfrica_DetailedReport_UKE.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelCustomerService7.1_(Retail%20&%20ContactCenter)_SouthAfrica_InterviewReport_UKE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Entry level Sales 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+        "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "Portuguese (Brazil)"
+        ],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement","Competencies", "Personality & Behavior"],
+        "remote_testing": true
+    },
+    {
+        "assessment_name": "Entry level Sales 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+        "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.Report Language Availability: English (USA), English International, Portuguese, French Canadian, German, French, Chinese Simplified, Spanish, North American Spanish.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "English (USA)", "Spanish", "Latin American Spanish", "French", "German", "French (Canada)", "English International", "Chinese Simplified", "Portuguese"
+        ],
+        "duration_minutes": 20,
+        "test_type": ["Personality & Behavior","Biodata & Situational Judgement","Competencies"],
+        "remote_testing": true,
+        "downloads": {
+            "English International": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_INT.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_INT.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_INT.pdf"
+            },
+            "French (Canada)": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_CFR.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_CFR.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_CFR.pdf"
+            },
+            "Latin American Spanish": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_ELA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_ELA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_ELA.pdf"
+            },
+            "English (USA)": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_USE.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_USE.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_USE.pdf"
+            },
+            
+            "Chinese Simplified":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_CHS.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_CHS.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_CHS.pdf"
+            },
+            "French":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_FRA.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_FRA.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_FRA.pdf"
+            },
+            "German":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_DEU.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_DEU.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_DEU.pdf"
+            },
+            
+            "Portuguese ": {
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_PTG.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_PTG.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_PTG.pdf"
+            },
+            "Spanish":{
+                "candidate_report": "https://service.shl.com/docs/EntryLevelSales7.1_CandidateReport_ESP.pdf",
+                "detailed_report": "https://service.shl.com/docs/EntryLevelSales7.1_DetailedReport_ESP.pdf",
+                "interview_report": "https://service.shl.com/docs/EntryLevelSales7.1_InterviewReport_ESP.pdf"
+            
+            }
+        }
+    },
+    {
+        "assessment_name": "Entry Level Sales Sift Out 7.1",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "Swedish", "Chinese Simplified", "Finnish", "English (USA)", "Portuguese (Brazil)", "French", "Danish", "Italian", "Arabic", "Dutch", "French (Canada)", "Latin American Spanish", "English International", "Norwegian", "German"
+        ],
+        "duration_minutes": 20,
+        "test_type": ["Competencies", "Personality & Behavior","Biodata & Situational Judgement"],
+        "remote_testing": true
+    },
+    {
+        "assessment_name": "Event Sales Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/event-sales-manager-solution/",
+        "description": "The Event Sales Manager solution is designed for management level positions in the hospitality industry. Sample tasks include selling use of facility space for special events and managing staff. The solution is focused on sales, solving problems and making good decisions. Potential job titles that use this solution are: Event Sales Manager, Events Manager and Special Events Manager. Multiple configurations of this solution are available.",
+        "job_level": ["Supervisor", "Front Line Manager", "Manager"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 50,
+        "test_type": ["Simulations","Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "fact_sheet_hospitality_suite_event_sales_manager_one_sitting_use":"https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Event%20Sales%20Manager%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Executive - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-short-form/",
+        "description": "The Executive solution is intended for use with senior executive level positions responsible for planning, directing, or coordinating key business activities and operations at the highest level of an organization. Executives at this level often accomplish their work through subordinate executives and provide overall direction to their organization by determining and formulating policies within guidelines set up by a board of directors or similar governing body. Potential job titles that use this solution are: Executive Vice President, President, and Executive Director.",
+        "job_level": ["Executive"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 74,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "fact_sheet_executive_one_sitting_use":"https://service.shl.com/docs/Fact%20Sheet%20Executive%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Financial Professional - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+        "description": "This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure financial professional aptitude, learning potential, achievement orientation, conscientiousness, persistence and planfulness, self leadership, interpersonal leadership, sales focus and customer focus.",
+        "job_level": ["Mid-Professional", "Professional Individual Contributor"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 35,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "fact_sheet_financial_professional_one_sitting_use":"https://service.shl.com/docs/Fact%20Sheet%20Executive%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Financial Services Representative Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-services-representative-solution/",
+        "description": "The Financial Services Representative solution is for senior-level professional positions in the insurance industry that sell life insurance to businesses and individuals on behalf of insurance companies. Sample tasks for this position include, but are not limited to: calling on policyholders to deliver and explain policies or suggest additions or changes; calculating premiums; customizing insurance programs to suite individual customers; seeking out new clients and developing clientele by networking; ensuring policy requirements are fulfilled; and conferring with clients to obtain and provide information when calims are made on a policy. Potential job titles that use this solution are: Life Insurance Sales Professional, Insurance Sales Agent. Multiple configurations of this solution are available.",
+        "job_level": ["Professional Individual Contributor"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 44,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "product_fact_sheet":"https://service.shl.com/docs/Fact%20Sheet_%20Financial%20Services%20Representative%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Front Desk Associate Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/front-desk-associate-solution/",
+        "description": "The Front Desk Associate solution is designed for entry-level customer service positions in the hospitality industry. The solution is appropriate for positions in which the majority of work is done at the front or guest check-in desk. Sample tasks may include: welcoming guests warmly, issuing keys to guests, tabulating guest bills and accpeting payment. Potential job titles that use this solution are: Front Desk Clerk, Guest Desk Attendant, Guest Check-in Associate, or Front Office Agent. Multiple configurations of this solution are available.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 50,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "fact_sheet_hospitality_suite_front_desk_associate_one_sitting_use":"https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Front%20Desk%20Associate%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Gaming Associate Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/gaming-associate-solution/",
+        "description": "The Gaming Associate solution is designed for entry to mid-level positions operating gaming tables. The solution is for highly customer service focused positions that may potentially deal with large sums of money. Sample tasks may include: dealing playing cards, counting and confirming patron bets, collecting patron losses and distributing patron winnings, and exchange currency for playing chips. Potential job titles that use this solution are: Table Games Dealer, Black Jack Dealer, Dealer, Casino Dealer, Dual Rate Dealer, Card Dealer and Gaming Dealer. Multiple configurations of this solution are available.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 50,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "fact_sheet_hospitality_suite_gaming_associate_one_sitting_use":"https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Gaming%20Associate%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "Gaming Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/gaming-manager-solution/",
+        "description": "The Gaming Manager solution is designed for management level positions within the hospitality industry. Sample tasks include managing operations, supervisors and associates within gaming environments. The solution is focused on security, integrity and managing sales. Potential job titles that use this solution are: Gaming Floor Manager and Gaming Manager. Multiple configurations of this solution are available.",
+        "job_level": ["Front Line Manager", "Manager", "Supervisor"],
+        "languages": [
+            "English (USA)"
+        ],
+        "duration_minutes": 55,
+        "test_type": ["Simulations","Ability & Aptitude","Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+            "English (USA)":{
+                "fact_sheet_hospitality_suite_gaming_manager_one_sitting_use":"https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Gaming%20Manager%20One%20Sitting_USE.pdf"
+            }
+        }
+    },
+    {
+        "assessment_name": "General Entry Level - All Industries 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+        "description": "Our General Entry Level – All Industries 7.0 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others. Solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)", "English International", "French (Canada)", "Latin American Spanish"],
+        "duration_minutes": 19,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+            
+          "Latin American Spanish": {
+            "detailed_report": "https://service.shl.com/docs/General%20Entry%20Level%20All%20Industries%20Candidate%20Detailed%20Report%20NAS.pdf",
+            "development_report": "https://service.shl.com/docs/General%20Entry%20Level%20All%20Industries%20Candidate%20Development%20Report%20NAS.pdf",
+            "interview_report": "https://service.shl.com/docs/General%20Entry%20Level%20All%20Industries%20Candidate%20Interview%20Report%20NAS.pdf"
+           },
+           "English (USA)": {
+            "development_report":"https://service.shl.com/docs/GeneralEntryLevel_AllIndustries_DevelopmentReport.pdf",
+            "product_fact_sheet":"https://service.shl.com/docs/Gen%20Entry%20Level%20%E2%80%93%20All%20Industries_Fact%20Sheet.pdf",
+            "detailed_report": "https://service.shl.com/docs/GeneralEntryLevel_AllIndustries_DetailedReport.pdf",
+            "interview_report": "https://service.shl.com/docs/GeneralEntryLevel_AllIndustries_InterviewReport.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "General Entry Level - All Industries 7.1 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+        "description": "Our General Entry Level – All Industries 7.1 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others. Solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector.“MCP Product: please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is Americas and International.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "German", "Norwegian", "Finnish", "French (Canada)", "Portuguese (Brazil)", "Latin American Spanish", "English (USA)", "English International", "Danish", "Swedish", "French", "Italian"
+        ],
+        "duration_minutes": 19,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true
+    },
+    {
+        "assessment_name": "General Entry Level - All Industries 7.1(Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+        "description": "Our General Entry Level – All Industries 7.1 solution is designed for entry-level positions across industries. This solution predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and effectively working alongside others. Solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Administrator, Clerk, Veterinary Assistant, Stocker, Dish Washer, Office Coordinator, Tour Guide, Cook, Assistant, Housekeeper, Waste Collector.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+            "Portuguese (Brazil)", "French (Canada)", "English (USA)", "Latin American Spanish"
+        ],
+        "duration_minutes": 19,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true
+    },
+    {
+        "assessment_name": "General Entry Level – Data Entry 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner. This solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.Report Language Availability: English (USA)",
+        "job_level": ["General Population", "Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 24,
+        "test_type": ["Biodata & Situational Judgement","Knowledge & Skills"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "development_report":"https://service.shl.com/docs/Sample%20Report%20-%20Development%20Data%20Entry%207.0.pdf",
+            "product_fact_sheet":"https://service.shl.com/docs/Gen%20Entry%20Level%20%E2%80%93%20Data%20Entry_Fact%20Sheet.pdf",
+            "detailed_report": "https://service.shl.com/docs/Sample%20Report%20-%20Detailed%20Data%20Entry%207.0.pdf",
+            "interview_report": "https://service.shl.com/docs/Sample%20Report%20-%20Interview%20Data%20Entry%207.0.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Graduate + 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+        "description": "The Graduate + 8.0 Job Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. It helps you identify graduates with the highest potential to contribute and succeed, as well as providing actionable feedback to help you onboard new hires. It is designed for professional level positions appropriate for recent college graduates and is available as part of SHL's Graduate Solution.",
+        "job_level": ["Graduate"],
+        "languages": [
+          "Arabic", "Latin American Spanish", "Portuguese", "Polish", "Portuguese (Brazil)", "Romanian", "Turkish", "English International", "Italian", "French", "German", "Dutch", "Chinese Simplified", "Swedish", "Norwegian", "Danish", "Chinese Traditional", "Spanish", "Japanese"
+        ],
+        "duration_minutes": 30,
+        "test_type": ["Ability & Aptitude", "Personality & Behavior", "Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "English International": {
+            "detailed_report": "https://service.shl.com/docs/Detailed%20Report%20-%20UKE.pdf",
+            "interview_report": "https://service.shl.com/docs/Interview%20Report%20-%20UKE.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%208.0%2B%20Candidate%20Report%20UKE%20-%20Medium%20(1).pdf"
+          },
+          "Latin American Spanish": {
+            "detailed_report": "https://service.shl.com/docs/Graduate%2B8.0_Detailed%20Report_ELA.pdf",
+            "interview_report": "https://service.shl.com/docs/Graduate%2B8.0_Interview%20Report_ELA.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%2B8.0_Candidate%20Report_ELA.pdf"
+          },
+          "English (USA)": {
+            "detailed_report": "https://service.shl.com/docs/Detailed%20Report%20-%20USE.pdf",
+            "interview_report": "https://service.shl.com/docs/Interview%20Report%20-%20USE.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%208.0%2B%20Candidate%20Report%20-%20Medium%20(1).pdf",
+            "product_fact_sheet": "https://service.shl.com/docs/Graduate_%2B%208.0_FactSheet(USE)[1866].pdf"
+          },
+          "Arabic": {
+            "detailed_report": "https://service.shl.com/docs/sample%20detailed%20report.pdf",
+            "interview_report": "https://service.shl.com/docs/sample%20interview%20report.pdf",
+            "candidate_report": "https://service.shl.com/docs/sample%20candidate%20report.pdf"
+          },
+          "Chinese Traditional": {
+            "interview_report":"https://service.shl.com/docs/Interview%20Report%20Traditional%20chinese.pdf",
+            "detailed_report": "https://service.shl.com/docs/Detailed%20Report%20Traditional%20chinese.pdf",
+            "candidate_report": "https://service.shl.com/docs/Candidate%20Report%20Traditional%20chinese.pdf"
+          },
+          "Chinese Simplified": {
+            "detailed_report": "https://service.shl.com/docs/Sample_Candidate_Graduate%2B8.0DetailedReport_CHS.pdf",
+            "interview_report": "https://service.shl.com/docs/Sample_Candidate_Graduate%2B8.0InterviewReport_CHS.pdf",
+            "candidate_report": "https://service.shl.com/docs/Sample_Candidate_Graduate%2B8.0CandidateReport_CHS.pdf"
+          },
+          "Danish": {
+            "detailed_report": "https://service.shl.com/docs/Samplereports_Grad%2B_Grad8.0@sample.report_Graduate%2B8.0DetailedReport_1097734.pdf",
+            "interview_report": "https://service.shl.com/docs/Samplereports_Grad%2B_Grad8.0@sample.report_Graduate%2B8.0InterviewReport_1097734.pdf",
+            "candidate_report": "https://service.shl.com/docs/Samplereports_Grad%2B_Grad8.0@sample.report_Graduate%2B8.0CandidateReport_1097734.pdf" },
+          "Dutch": {
+            "detailed_report": "https://service.shl.com/docs/Graduate%2B8.0_DetailedReport_Dutch.pdf",
+            "interview_report": "https://service.shl.com/docs/Graduate%2B8.0_InterviewReport_Dutch.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%2B8.0_CandidateReport_Dutch.pdf"
+          },
+          "French": {
+            "detailed_report": "https://service.shl.com/docs/Sample_Candidate_sample@candidate2.sss_Graduate%2B8.0DetailedReport_1041535.pdf",
+            "interview_report": "https://service.shl.com/docs/Sample_Candidate_sample@candidate2.sss_Graduate%2B8.0InterviewReport_1041535.pdf",
+            "candidate_report": "https://service.shl.com/docs/Sample_Candidate_sample@candidate2.sss_Graduate%2B8.0CandidateReport_1041535.pdf"
+          },
+          "German": {
+            "detailed_report": "https://service.shl.com/docs/Sample_Candidate_SampleCandidate0402@shl.com_Graduate%2B8.0DetailedReport_13209098.pdf",
+            "interview_report": "https://service.shl.com/docs/Sample_Candidate_SampleCandidate0402@shl.com_Graduate%2B8.0InterviewReport_13209098.pdf",
+            "candidate_report": "https://service.shl.com/docs/Sample_Candidate_SampleCandidate0402@shl.com_Graduate%2B8.0CandidateReport_13209098.pdf"
+          },
+          "Italian": {
+            "detailed_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20%20Detailed.pdf",
+            "interview_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Interview.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20%20Candidate.pdf"
+          },
+          "Norwegian": {
+            "detailed_report": "https://service.shl.com/docs/Sample_Candidate_Graduate%2B8.0DetailedReport_NOR.pdf",
+            "interview_report": "https://service.shl.com/docs/Sample_Candidate_Graduate%2B8.0InterviewReport_NOR.pdf",
+            "candidate_report": "https://service.shl.com/docs/Sample_Candidate_Graduate%2B8.0CandidateReport_NOR.pdf"
+          },
+          "Romanian": {
+            "detailed_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Detailed%20Report%20Romanian.pdf",
+            "interview_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Interview%20Report%20Romanian.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Candidate%20Report%20Romanian.pdf"
+          },
+          "Swedish": {
+            "detailed_report": "https://service.shl.com/docs/Detailed%20Report%20Swedish.pdf",
+            "interview_report": "https://service.shl.com/docs/Interview%20Report%20Swedish.pdf",
+            "candidate_report": "https://service.shl.com/docs/Candidate%20Report%20Swedish.pdf"
+          },
+          "Turkish": {
+            "detailed_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Detailed%20Report%20Turkish.pdf",
+            "interview_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Interview%20Report%20Turkish.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%20%2B%208.0%20Candidate%20Report%20Turkish.pdf"
+          },
+          "Portuguese (Brazil)": {
+            "detailed_report": "https://service.shl.com/docs/Graduate%2B8.0_Detailed%20Report_BRA.pdf",
+            "interview_report": "https://service.shl.com/docs/Graduate%2B8.0_Interview%20Report_BRA.pdf",
+            "candidate_report": "https://service.shl.com/docs/Graduate%2B8.0_Candidate%20Report_BRA.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Graduate 7.1 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+        "description": "The Graduate 7.1 Job Focused Assessment is designed for professional level positions appropriate for recent college graduates.",
+        "job_level": ["Graduate"],
+        "languages": ["Chinese Simplified", "English (USA)", "French", "German", "English International", "Italian", "Japanese", "Latin American Spanish", "Polish", "Russian", "Swedish", "Dutch", "Portuguese (Brazil)"],
+        "duration_minutes": 19,
+        "test_type": ["Biodata & Situational Judgement","Competencies"],
+        "remote_testing": true,
+        "downloads": {
+          "English International":{
+            "interview_report":"https://service.shl.com/docs/Graduate%207.1%20sample%20interview%20report.pdf",
+            "product_fact_sheet":"https://service.shl.com/docs/Graduate%207.0%20Fact%20Sheet_USE.pdf",
+            "candidate_report":"https://service.shl.com/docs/GraduateCandidateReport_INT.pdf",
+            "detailed_report":"https://service.shl.com/docs/GraduateDetailedReport_INT.pdf"
+          },
+          "Latin American Spanish":{
+            "interview_report":"https://service.shl.com/docs/GraduateInterviewReport_LAS.pdf",
+            "candidate_report":"https://service.shl.com/docs/GraduateCandidateReport_LAS.pdf",
+            "detailed_report":"https://service.shl.com/docs/GraduateDetailedReport_LAS.pdf"
+          },
+          "Chinese Simplified":{
+            "candidate_report":"https://service.shl.com/docs/GraduateCandidateReport%20CHS.pdf",
+            "interview_report":"https://service.shl.com/docs/GraduateInterviewReport_LAS.pdf",
+            "detailed_report":"https://service.shl.com/docs/GraduateDetailedReport_LAS.pdf"
+          
+          },
+           "English (USA)": {
+            "development_report":"https://service.shl.com/docs/Sample%20Report%20-%20Development%20Data%20Entry%207.0.pdf",
+            "product_fact_sheet":"https://service.shl.com/docs/Gen%20Entry%20Level%20%E2%80%93%20Data%20Entry_Fact%20Sheet.pdf",
+            "detailed_report": "https://service.shl.com/docs/Sample%20Report%20-%20Detailed%20Data%20Entry%207.0.pdf",
+            "interview_report": "https://service.shl.com/docs/Sample%20Report%20-%20Interview%20Data%20Entry%207.0.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Graduate 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+        "description": "The Graduate 8.0 Job Focused Assessment is a short, targeted, globally applicable assessment to help you identify graduates with the highest potential to contribute and succeed. It also provides actionable feedback to help you onboard new hires.It is designed for professional level positions appropriate for recent college graduates and is available as part of SHL’s Graduate Solution.",
+        "job_level": ["Graduate"],
+        "languages": ["English (USA)"," English International", "Italian", "French", "German", "Dutch", "Chinese Simplified", "Swedish", "Finnish", "Norwegian", "Danish", "Chinese Traditional", "Turkish", "Romanian", "Japanese", "Latin American Spanish", "Indonesian", "Portuguese (Brazil)", "Arabic", "Polish,"],
+        "duration_minutes": 20,
+        "test_type": ["Personality & Behavior","Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "English International":{
+            "interview_report":"https://service.shl.com/docs/Graduate%208.0%20Interview%20Report%20UKE%20-%20High%20(1).pdf",
+            "candidate_report":"https://service.shl.com/docs/Graduate%208.0%20Candidate%20Report%20UKE%20-%20High%20(1).pdf",
+            "detailed_report":"https://service.shl.com/docs/Graduate%208.0%20Detaile%20Report%20UKE%20-%20High%20(1).pdf"
+          },
+          "Latin American Spanish":{
+            "interview_report":"https://service.shl.com/docs/ELA_Graduate_8.0_Interview_Report.pdf",
+            "candidate_report":"https://service.shl.com/docs/ELA_Graduate_8.0_Candidate_Report.pdf",
+            "detailed_report":"https://service.shl.com/docs/ELA_Graduate_8.0_Detail_Report.pdf"
+          },
+          
+            "English (USA)": {
+              "product_fact_sheet": "https://service.shl.com/docs/Graduate_8.0_FactSheet(USE).pdf",
+              "candidate_report": "https://service.shl.com/docs/Graduate%208.0%20Candidate%20Report%20-%20High%20(1).pdf",
+              "detailed_report": "https://service.shl.com/docs/USE_Graduate_8.0_Detailed_Report.pdf",
+              "interview_report": "https://service.shl.com/docs/USE_Graduate_8.0_Interview_Report.pdf"
+            },
+            "Arabic": {
+              "candidate_report": "https://service.shl.com/docs/Sample_Candidate_Graduate8.0%20CandidateReport%20ARB.pdf",
+              "detailed_report": "https://service.shl.com/docs/Sample_Candidate_Graduate8.0%20DetailedReport%20ARB.pdf",
+              "interview_report": "https://service.shl.com/docs/Sample_Candidate_Graduate8.0%20InterviewReport%20ARB.pdf"
+            },
+            "Chinese Traditional": {
+              "product_fact_sheet": null,
+              "candidate_report": "Chttps://service.shl.com/docs/Sample_Graduate8.0CandidateReport_CHT_1095528.pdf",
+              "detailed_report": "https://service.shl.com/docs/Sample_Graduate8.0DetailedReport_CHT_1095528.pdf",
+              "interview_report": "https://service.shl.com/docs/Sample_Graduate8.0InterviewReport_CHT_1095528.pdf"
+            },
+            "Chinese Simplified": {
+              "candidate_report": "https://service.shl.com/docs/Candidate%20Report%20-%20%20Graduate%208%20CHS.pdf",
+              "detailed_report": "https://service.shl.com/docs/Detailed%20Report%20-%20%20Graduate%208%20CHS.pdf",
+              "interview_report": "https://service.shl.com/docs/Detailed%20Report%20-%20%20Interview%208%20CHS.pdf"
+            },
+            "Danish": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "Dutch": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "Finnish": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "French": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "German": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": null
+            },
+            "Italian": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "Norwegian": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "Romanian": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": null,
+              "interview_report": "Interview Report"
+            },
+            "Swedish": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": "Interview Report"
+            },
+            "Turkish": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": null
+            },
+            "Portuguese (Brazil)": {
+              "product_fact_sheet": null,
+              "candidate_report": "Candidate Report",
+              "detailed_report": "Detailed Report",
+              "interview_report": null
+            }
+          }
+          
+        },
+      
+      {
+        "assessment_name": "Teller 7.0",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/teller-7-0/",
+        "description": "Teller or cashier positions are integral to financial institutions as they conduct numerous banking transactions each day, as well as being the face of the bank to its customers. The Teller Solution contains scales that measure a person’s ability to handle money, prevent transactional errors, promote quality customer service, and generate sales or referrals appropriately.",
+        "job_level": "Entry-Level",
+        "languages": ["English (USA)"],
+        "duration_minutes": 35,
+        "test_type": ["Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet": "https://service.shl.com/docs/Fact%20Sheet%20Teller%207.0.pdf"
+        }
+      },
+      {
+        "assessment_name": "Teller with Sales - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/teller-with-sales-short-form/",
+        "description": "The Teller solution with Sales is for entry-level financial institution teller positions. Sample tasks for this job would include, but are not limited to: balancing currency, coin and checks, cashing checks and paying out money, entering customer transactions into computers, and suggestive selling after a customer service interaction.",
+        "job_level": "Entry-Level",
+        "languages": ["English (USA)"],
+        "duration_minutes": 35,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet_teller_with_sales_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20Teller%20with%20Sales%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Transcriptionist Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/transcriptionist-solution/",
+        "description": "The Transcriptionist solution is for entry-level clerical roles in a healthcare environment that require employees to translate medical information. Sample tasks for these jobs include, but are not limited to: transcribing dictated reports, deciphering medical jargon, and proofing medical reports. Potential job titles that use this solution are: Medical Transcriptionist, Medical Transcriber, and Documentation Specialist. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level",
+        "languages": ["English (USA)"],
+        "duration_minutes": 33,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "fact_sheet_transcriptionist_one_sitting_use": "https://service.shl.com/docs/Fact%20Sheet%20Transcriptionist%20One%20Sitting_USE.pdf"
+        }
+      },
+      {
+        "assessment_name": "Workplace Safety - Individual 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+        "description": "Our Workplace Safety - Individual 7.0 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance with more individually-oriented roles or work environments. The solution assesses behaviors and competencies foundational to safety across a wide range of jobs, including: following policies and procedures; wearing required protective equipment; safely operating vehicles and/or machinery; taking action in unsafe situations; and producing high quality work. Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.Report Language Availability: English (USA), Latin American Spanish.",
+        "job_level": ["Entry-Level"],
+        "languages": ["German, English International", "English (USA)", "Italian", "French", "Dutch", "French (Canada)", "Latin American Spanish", "Arabic"],
+        "duration_minutes": 16,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "Latin American Spanish":{
+            "workplace_safety_individual_detailed_report":"https://service.shl.com/docs/Workplace%20Safety%20Individual%20Candidate%20Detailed%20Report%20NAS.pdf",
+            "workplace_safety_individual_development_report":"https://service.shl.com/docs/Workplace%20Safety%20Individual%20Candidate%20Development%20Report%20NAS.pdf",
+            "workplace_safety_individual_interview_report":"https://service.shl.com/docs/Workplace%20Safety%20Individual%20Candidate%20Interview%20Report%20NAS.pdf"
+          },
+           "English (USA)": {
+            "development_report":"https://service.shl.com/docs/Workplace%20Safety%207.0%20Individuals%20(Americas)%20Development%20Report%20(2).pdf",
+            "product_fact_sheet":"https://service.shl.com/docs/7.0WorkplaceSafety_Individual_FactSheet(USE)v2.pdf",
+            "detailed_report": "https://service.shl.com/docs/Workplace%20Safety%207.0%20Individuals%20(Americas)%20Detailed%20Report.pdf",
+            "interview_report": "https://service.shl.com/docs/Workplace%20Safety%207.0%20Individuals%20(Americas)%20Interview%20Report%20(1).pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Workplace Safety - Individual 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+        "description": "Our Workplace Safety - Individual 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance with more individually-oriented roles or work environments. The solution assesses behaviors and competencies foundational to safety across a wide range of jobs, including: following policies and procedures; wearing required protective equipment; safely operating vehicles and/or machinery; taking action in unsafe situations; and producing high quality work. Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.",
+        "job_level": ["Entry-Level"],
+        "languages": ["Portuguese (Brazil)", "English (USA)", "French (Canada)", "Latin American Spanish"],
+        "duration_minutes": 16,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+           "English (USA)": {
+            "development_report":"https://service.shl.com/docs/Workplace%20Safety%20Individual%207.1%20(Americas)%20Development%20Report%20(1).pdf",
+            "detailed_report": "https://service.shl.com/docs/Workplace%20Safety%20Individual%207.1%20(Americas)%20Detailed%20Report%20(1).pdf",
+            "interview_report": "https://service.shl.com/docs/Workplace%20Safety%20Individual%207.1%20(Americas)%20Interview%20Report%20(1).pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Workplace Safety - Team 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+        "description": "The Workplace Safety – Team 7.0 solution is designed for entry-level positions to measure the competencies and experiences that underlie successful and safe performance in a team based work environment. The solution predicts the following types of behaviors and competencies foundational to safety across a wide range of jobs: wearing required protective equipment; working hard and responsibly; safely moving equipment, freight, or other materials; working and communicating effectively with others; taking action when unsafe situations occur; and following policies and procedures Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.Report Language Availability: English (USA), Latin American Spanish.",
+        "job_level": ["Director"],
+        "languages": ["English International", "English (USA)", "French (Canada)", "Latin American Spanish"],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+           "Latin American Spanish":{
+            "workplace_safety_team_detailed_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%20Candidate%20Detailed%20Report%20NAS.pdf",
+            "workplace_safety_team_development_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%20Candidate%20Development%20Report%20NAS.pdf",
+            "workplace_safety_team_interview_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%20Candidate%20Interview%20Report%20NAS.pdf"
+           },
+           "English (USA)": {
+            "product_fact_sheet":"https://service.shl.com/docs/7.0WorkplaceSafety_Team_FactSheet(USE)v3.pdf",
+            "workplace_safety_team_development_report":"https://service.shl.com/docs/WorkplaceSafety_Team_DevelopmentReport.pdf",
+            "workplace_safety_team_detailed_report": "https://service.shl.com/docs/WorkplaceSafety_Team_DetailedReport.pdf",
+            "workplace_safety_team_interview_report": "https://service.shl.com/docs/WorkplaceSafety_Team_InterviewReport.pdf"
+           }
+        }
+      },
+      {
+        "assessment_name": "Workplace Safety - Team 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+        "description": "The Workplace Safety – Team 7.1 solution is designed for entry-level positions to measure the competencies and experiences that underlie successful and safe performance in a team based work environment. The solution predicts the following types of behaviors and competencies foundational to safety across a wide range of jobs: wearing required protective equipment; working hard and responsibly; safely moving equipment, freight, or other materials; working and communicating effectively with others; taking action when unsafe situations occur; and following policies and procedures Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.",
+        "job_level": ["Entry-Level", "General Population", "Professional Individual Contributor"],
+        "languages": ["English (USA)", "Latin American Spanish", "French (Canada)"],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement","Competencies","Personality & Behavior"],
+        "remote_testing": true
+      },
+      {
+        "assessment_name": "Workplace Safety - Team 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+        "description": "The Workplace Safety – Team 7.1 solution is designed for entry-level positions to measure the competencies and experiences that underlie successful and safe performance in a team based work environment. The solution predicts the following types of behaviors and competencies foundational to safety across a wide range of jobs: wearing required protective equipment; working hard and responsibly; safely moving equipment, freight, or other materials; working and communicating effectively with others; taking action when unsafe situations occur; and following policies and procedures Industries and environments with entry-level positions that use this solution are: Warehouse, Healthcare, Delivery and Logistics, Food Handling and Preparation, Assembly and Installation, Transportation, Manufacturing and Processing, Construction, Drivers, Oil and Gas, and Mining.",
+        "job_level": ["Entry-Level", "General Population", "Professional Individual Contributor"],
+        "languages": ["English International", "Finnish", "French", "Dutch", "Latin American Spanish", "Swedish", "Portuguese (Brazil)", "Italian", "German", "French (Canada)", "Danish"],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement","Competencies","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+           "English International":{
+            "candidate_report":"https://service.shl.com/docs/WorkplaceSafetyTeam_SampleCandidateReport.pdf",
+            "detailed_report":"https://service.shl.com/docs/WorkplaceSafetyTeam_SampleDetailedReport.pdf",
+            "interview_report":"https://service.shl.com/docs/WorkplaceSafetyTeam_SampleInterviewReport.pdf"
+           },
+           "English (USA)": {
+            "detailed_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%207.1%20(International)%20Detailed%20Report%20(1).pdf",
+            "development_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%207.1%20(International)%20Development%20Report%20(1).pdf",
+            "interview_report": "https://service.shl.com/docs/Workplace%20Safety%20Individual%207.1%20(Americas)%20Interview%20Report%20(1).pdf"
+           },
+           "Danish":{
+            "candidate_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%207.1%20Sample%20Candidate%20report%20DAN.pdf",
+            "detailed_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%207.1%20Sample%20Detailed%20report%20DAN.pdf",
+            "interview_report":"https://service.shl.com/docs/Workplace%20Safety%20Team%207.1%20Sample%20Interview%20report%20DAN.pdf"
+           },
+           "Italian":{
+            "candidate_report":"https://service.shl.com/docs/WorkplaceSafetyTeam7.1_CandidateReport_ITA.pdf",
+            "detailed_report":"https://service.shl.com/docs/WorkplaceSafetyTeam7.1_DetailedReport_ITA.pdf",
+            "interview_report":"https://service.shl.com/docs/WorkplaceSafetyTeam7.1_InterviewReport_ITA.pdf"
+           
+           }
+        }
+      },
+      {
+        "assessment_name": "Workplace Safety Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-solution/",
+        "description": "The Workplace Safety Solution is designed for entry-level positions to measure the competencies and experiences that underlie successful and safe performance in the workplace. This solution measures one’s general tendency to behave safely in the workplace using a variety of assessment types including personality traits, safety-related situational judgment, and biodata. Potential job titles that use this solution are: Material Handler, Shipping Operator, Driver, Forklift Operator, Crewman, Mechanic, and Receiver.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)", "English (Australia)"],
+        "duration_minutes": 21,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads":{
+          "English (USA)":{
+            "product_fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Workplace%20Safety%20Solution.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Industrial - Semi-skilled 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+        "description": "Our Industrial – Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. Potential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician.Please note this package is in Americas norm.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA), Portuguese (Brazil)", "French (Canada)"],
+        "duration_minutes": 24,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "French (Canada)": {
+            "Candidate_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledCandidateReport_CFR.pdf",
+            "Detailed_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledDetailedReport_CFR.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledInterviewReport_CFR.pdf"
+           },
+           "English (USA)":{
+            "Product_fact_sheet":"https://service.shl.com/docs/7.1Industrial_SemiSkilled_FactSheet(USE).pdf",
+            "Candidate_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledCandidateReport_USE.pdf",
+            "Detailed_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledDetailedReport_USE.pdf",
+            "Interview_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledInterviewReport_USE.pdf"
+           },
+          "Portuguese (Brazil)":{
+            "Candidate_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledCandidateReport_PT%20BR.pdf",
+            "Detailed_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledDetailedReport_PT%20BR.pdf",
+            "Interview_Report":"https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledInterviewReport_PT%20BR.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Industrial - Semi-skilled 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+        "description": "Our Industrial – Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. Potential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician.Please note this package is in International norm.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+          "French (Canada)", "Finnish", "English International", "French", "Danish", "Norwegian", "Swedish"
+        ],
+        "duration_minutes": 24,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "English International": {
+            "Interview_Report": "https://service.shl.com/docs/Industrial%20Semi%20Skilled%207.1%20(International)%20JFA%20Interview%20Report%20UKE.pdf",
+            "Detailed_Reportt": "https://service.shl.com/docs/Industrial%20Semi%20Skilled%207.1%20(International)%20JFA%20Detailed%20Report%20UKE.pdf",
+            "Candidate Report": "https://service.shl.com/docs/Industrial%20Semi%20Skilled%207.1%20(International)%20JFA%20Candidate%20Report%20UKE.pdf"
+          },
+          "English (USA)": {
+            "Product_fact_sheet": "https://service.shl.com/docs/7.1Industrial_SemiSkilled_FactSheet(USE).pdf"
+          },
+          "Danish": {
+            "Candidate_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledCandidateReport_DAN.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledDetailedReport_DAN.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledInterviewReport_DAN.pdf"
+          },
+          "French": {
+            "Candidate_Report":"https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledCandidateReport_FRA.pdf",
+            "Detailed Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledDetailedReport_FRA.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledInterviewReport_FRA.pdf"
+          },
+          "Norwegian": {
+            "Candidate_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledCandidateReport_NOR.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledDetailedReport_NOR.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledInterviewReport_NOR.pdf"
+          },
+          "Swedish": {
+            "Candidate_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledCandidateReport_SVE.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledDetailedReport_SVE.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Candiate_Samplereport_IndustrialSemi-skilledInterviewReport_SVE.pdf" }
+        }
+      },
+      {
+        "assessment_name": "Industrial Professional and Skilled 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+        "description": "Our Industrial – Professional and Skilled 7.1 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. This solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work.IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+          "Portuguese (Brazil)", "English (USA)", "French (Canada)"
+        ],
+        "duration_minutes": 49,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "French (Canada)": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_CandidateReport_CFR.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_DetailedReport_CFR.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_InterviewReport_CFR.pdf"
+          },
+          "English (USA)": {
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_DetailedReport_USE.pdf",
+            "Interview_Report":"https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_InterviewReport_USE.pdf",
+            "Candidate_Report":"https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_CandidateReport_USE.pdf"
+          },
+          "Portuguese (Brazil)": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_CandidateReport_BRA.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_DetailedReport_BRA.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_Americas_InterviewReport_BRA.pdf" }
+        }
+      },
+      {
+        "assessment_name": "Industrial Professional and Skilled 7.1 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+        "description": "Our Industrial – Professional and Skilled 7.1 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. This solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work.IMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+          "Portuguese (Brazil)", "Swedish", "English International", "Dutch", "Italian", "French", "English (USA)", "French (Canada)", "Norwegian", "German"
+        ],
+        "duration_minutes": 49,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          "English International": {
+            "Candidate Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_INT.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_INT.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_INT.pdf"
+          },
+          "French (Canada)": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_CFR.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_CFR.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_CFR.pdf"
+          },
+          "English (USA)": {
+            "Candidate_Report":"https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_USE.pdf",
+            "Detailed Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_USE.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_USE.pdf"
+          },
+          "Dutch": {
+            "Interview_Report": "https://service.shl.com/docs/Industrial%20-%20Professional%20and%20Skilled%20Interview%20Report%20Dutch.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial%20-%20Professional%20and%20Skilled%20Detailed%20Report%20Dutch.pdf",
+            "Candidate_Report": "https://service.shl.com/docs/Industrial%20-%20Professional%20and%20Skilled%20Candidate%20Report%20Dutch.pdf"
+          },
+          "French": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_FRA.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_FRA.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_FRA.pdf" 
+            },
+          "German": {
+           "Interview_Report": "https://service.shl.com/docs/Industrial%20-%20Professional%20and%20Skilled%20Interview%20Report%20German.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial%20-%20Professional%20and%20Skilled%20Detailed%20Report%20German.pdf",
+            "Candidate_Report": "https://service.shl.com/docs/Industrial%20-%20Professional%20and%20Skilled%20Candidate%20Report%20German.pdf"
+            },
+          "Italian": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_ITA.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_ITA.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_ITA.pdf" 
+            },
+          "Norwegian": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_NOR.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_NOR.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_NOR.pdf" 
+            },
+          "Swedish": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_SVE.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_SVE.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_SVE.pdf" 
+            },
+          "Portuguese (Brazil)": {
+            "Candidate_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_CandidateReport_BRA.pdf",
+            "Detailed_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_DetailedReport_BRA.pdf",
+            "Interview_Report": "https://service.shl.com/docs/Industrial-ProfessionalandSkilled7.1_International_InterviewReport_BRA.pdf" 
+            }
+        }
+      },
+      {
+        "assessment_name": "Installation and Repair Technician Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/installation-and-repair-technician-solution/",
+        "description": "The Installation and Repair Technician solution is designed for use with entry-level field technician positions in the telecommunications industry. The solution is focused on positions that involve installing, repairing, and maintaining telecommunications equipment, along with some customer interaction, and little to no specific sales components. Sample tasks may include: installing or repairing end-user telecommunications equipment and services, interacting with customers, and installing, or repairing telecommunications network infrastructure. Potential job titles that use this solution are: Installer, Service Technician, and Customer Installation Technician. There are multiple configurations of this solution available.",
+        "job_level": ["Professional-Individual-Contributor"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 49,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Fact Sheet Telecommunications Suite Installation and Repair Technician One Sitting_USE":"https://service.shl.com/docs/Fact%20Sheet%20Telecommunications%20Suite%20Installation%20and%20Repair%20Technician%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Insurance Account Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/insurance-account-manager-solution/",
+        "description":"The Insurance Account Manager solution is for mid-level insurance professionals that manage the day-to-day operations and activities of customer accounts. Sample tasks for this job include, but are not limited to: soliciting sales of new or additional products or services; interacting with customers to provide information in response to inquiries about products and services and to handle and resolve complaints; keeping records of customer interactions and transactions; resolving customers' service or billing complaints; determining charges for services requested; collecting deposits or payments; and arranging for billing. Potential job titles that use this solution are: Account Executive, Account Manager, and Senior Account Manager. Multiple configurations of this solution are available.",
+        "job_level": ["Mid-Professional"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 48,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Product fact sheet":"https://service.shl.com/docs/Fact%20Sheet_%20Insurance%20Account%20Manager%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Insurance Administrative Assistant Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/insurance-administrative-assistant-solution/",
+        "description":"The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for this job include, but are not limited to: answering telephones; managing files and records; sorting mail; handling information requests; greeting customers; and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. Multiple configurations of this solution are available.",
+        "job_level": ["Entry-Level"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 24,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Product fact sheet":"https://service.shl.com/docs/Fact%20Sheet_%20Insurance%20Administrative%20Assistant%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Insurance Agent Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/insurance-agent-solution/",
+        "description":"The Insurance Agent solution is for mid-level professional positions in the insurance industry that sell property, casualty, automotive, or other types of insurance. Sample tasks for this position include, but are not limited to: calling on policyholders to deliver and explain policies or suggest additions or changes; calculating premiums; customizing insurance programs to suit individual customers; ensuring policy requirements are fulfilled; and conferring with clients to obtain and provide information when claims are made on a policy. Potential job titles that use this solution are: Insurance Sales Professional; Insurance Sales Agent; Producer; Insurance Agent. Multiple configurations of this solution are available.",
+        "job_level": ["Mid-Professiona"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 46,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Product fact sheet":"https://service.shl.com/docs/Fact%20Sheet_%20Insurance%20Agent%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Insurance Director Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/insurance-director-solution/",
+        "description":"The Insurance Director solution is for senior-level management positions in the insurance companies that oversee sales functions across multiple brokerages, offices, or agencies or geographic territories. Sample tasks for this job includes, but is not limited to: directing a group of sales managers or agency managers; having profit and loss responsibility for a district or region; and aligning work with overall company goals. Potential job titles that use this solution are: Regional Managers, Associate Directors, and Managing Directors. Multiple configurations of this solution are available.",
+        "job_level": ["Director", "Front Line Manager", "Manager", "Supervisor"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 46,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Product fact sheet":"https://service.shl.com/docs/Fact%20Sheet_%20Insurance%20Director%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Insurance Sales Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/insurance-sales-manager-solution/",
+        "description":"The Sales Manager solution is for entry- to mid-level management positions that involve supervising employees working in an insurance organization and have a substantial portion of their job performance based on sales. Sample tasks for this job include, but are not limited to: planning and preparing work schedules; promoting products to customers; training subordinates; analyzing sales statistics gathered by staff to determine sales potential and monitor preferences of customers; building ongoing customer relationships; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Insurance Sales Manager, Sales Manager, Assistant Sales Manager, and Sales Supervisor. Multiple configurations of this solution are available.",
+        "job_level": ["Front Line Manager", "Manager", "Supervisor"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 51,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Product fact sheet":"https://service.shl.com/docs/Fact%20Sheet_%20Insurance%20Sales%20Manager%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Manager - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-short-form/",
+        "description":"The Manager solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise salaried employees. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems. Potential job titles that use this solution are: Manager, Store Manager, and Branch Manager.",
+        "job_level": ["Front Line Manager", "Manager", "Supervisor"],
+        "languages": [
+          "English (USA)"
+        ],
+        "duration_minutes": 57,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior","Simulations"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Fact Sheet Manager One Sitting_USE":"https://service.shl.com/docs/Fact%20Sheet%20Manager%20One%20Sitting_USE.pdf"
+          }
+        }
+      },
+      {
+        "assessment_name": "Manager + 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-7-0-solution-3955/",
+        "description":"Our Manager + 7.0 solution is designed for candidates applying to entry-level leadership positions who tend to supervise salaried employees, and includes SHL’s new innovative mobile-first ability assessment, Verify Interactive – Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees ' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems.Report Language Availability: English (USA).",
+        "job_level": ["Front Line Manager", "Manager"],
+        "languages": [
+          "English (USA), English International"
+        ],
+        "duration_minutes": 53,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Competencies"],
+        "remote_testing": true,
+        "downloads": {
+          "English (USA)": {
+            "Manager + 7.0 Detailed Report":"https://service.shl.com/docs/Manager_plus_7.0%20Detailed%20Report%20(1).pdf",
+            "Manager + 7.0 Development Report":"https://service.shl.com/docs/Manager_plus_7.0%20Development%20Report%20(1).pdf",
+            "Manager + 7.0 Interview Report":"https://service.shl.com/docs/Manager_plus_7.0%20Interview%20Report%20(1).pdf",
+            "Product Fact Sheet":"https://service.shl.com/docs/ManagerPlus_7.0_FactSheet(USE).pdf"
+          }
+        }
+      },
+      {  
+    "assessment_name": "Account Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+    "description": "The Account Manager solution is an assessment used for job candidates applying to mid-level leadership positions that tend to manage the day-to-day operations and activities of client accounts. Sample tasks for these jobs include, but are not limited to: communicating with clients about project status, developing and maintaining project plans, coordinating internally with appropriate project personnel, and ensuring client expectations are being met. Potential job titles that use this solution are: Account Executive, Account Manager, and Senior Account Manager. There are multiple configurations of this solution available.",
+    "job_level": ["Mid-Professional"],
+    "languages": ["English (USA)"],
+    "duration_minutes": 49,
+    "test_type": ["Biodata & Situational Judgement","Competencies","Personality and Behavior","Ability and Aptitude"],
+    "remote_testing": true,
+    "downloads": {
+      
+       "English (USA)": {
+        "product_flyer":"https://service.shl.com/docs/Fact%20Sheet%20Account%20Manager%20One%20Sitting_USE.pdf"
+       }
+    }
+ },
+  {
+    "assessment_name": "Healthcare Aide 7.0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-aide-7-0-solution/",
+    "description": "Our Healthcare Aide 7.0 solution is designed for individually-oriented, entry-level positions that directly support another person's health and well-being. The solution covers a wide variety of positions, and assesses behaviors critical for patient support roles including: understanding and following detailed instructions; administering personal care; being respectful and tolerant of patients; preparing and maintaining records of patient progress and services performed; and working hard to meet or exceed patient needs. Potential job titles that use this solution include: Personal Care Aide, Healthcare Aide, Home Health Aide, Dental Assistant.",
+    "job_level": ["Entry-Leve"],
+    "languages": [
+        "English (USA)", "French (Canada)", "Latin American Spanish"
+    ],
+    "duration_minutes": 22,
+    "test_type": ["Biodata & Situational Judgement"],
+    "remote_testing": true,
+    "downloads": {
+      "Latin American Spanish": {
+        "detailed_report": "https://service.shl.com/docs/Healthcare%20Aide%20Candidate%20Detailed%20Report%20NAS.pdf",
+        "interview_report": "https://service.shl.com/docs/Healthcare%20Aide%20Candidate%20Interview%20Report%20NAS.pdf",
+        "development_report": "https://service.shl.com/docs/Healthcare%20Aide%20Candidate%20Development%20Report%20NAS.pdf"
+      },
+      "English (USA)": {
+        "detailed_report": "https://service.shl.com/docs/Healthcare%20Aide%207.0%20Detailed%20Report.pdf",
+        "interview_report": "https://service.shl.com/docs/Healthcare%20Aide%207.0%20Interview%20Report.pdf",
+        "development_report": "https://service.shl.com/docs/Healthcare%20Aide%207.0%20Development%20Report.pdf",
+        "product_fact_sheet": "https://service.shl.com/docs/7.0HealthcareAide_FactSheet(USE)v2.pdf"
+      }
+      }
+    },
+    {
+        "assessment_name": "Healthcare Call Center Agent Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-call-center-agent-solution/",
+        "description": "The Healthcare Call Center Agent solution is for entry-level positions in an inbound healthcare call center environment. Sample tasks for this job include, but are not limited to: taking and receiving information from patients over the phone, working between computer screens, and entering information into a computer. Potential job titles that use this solution are: Call Center Representative, Receptionist, and Switchboard Operator. Multiple configurations of this solution are available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 44,
+        "test_type": ["Biodata & Situational Judgement","Simulations","Personality and Behavior","Ability and Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Healthcare%20Call%20Center%20Agent%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+    
+      {
+        "assessment_name": "Healthcare Service Associate Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-service-associate-solution/",
+        "description": "The Healthcare Service Associate solution is for entry-level positions in a healthcare environment that require the employee to interact with patients. Sample tasks for this job include, but are not limited to: delivering food to patients, cleaning patient rooms, and welcoming guests to the hospital. Potential job titles that use this solution are: Housekeepers, Dietary Aides, and Guest Services Coordinator. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 37,
+        "test_type": ["Biodata & Situational Judgement","Personality and Behavior","Ability and Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Healthcare%20Service%20Associate%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+
+      {
+        "assessment_name": "Healthcare Support Specialist Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-support-specialist-solution/",
+        "description": "The Healthcare Support Specialist solution is for entry-level positions in a healthcare environment that do not require the employee to interact with patients. Sample tasks for this job include, but are not limited to: preparing food for patients, washing hospital linens, and cleaning the healthcare facility. Potential job titles that use this solution are: Janitors, Food Preparation Workers, and Laundry Associates. Multiple configurations of this solution are available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 30,
+        "test_type": ["Biodata & Situational Judgement","Personality and Behavior","Ability and Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Healthcare%20Support%20Specialist%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+
+      {
+        "assessment_name": "Home Health Aide Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/home-health-aide-solution/",
+        "description": "The Home Health Aide solution is for entry-level positions in an in-home or group home environment. Sample tasks for this job include, but are not limited to: monitoring vital signs and medication intake, administering bedside and personal care such as ambulation and personal hygiene, and preparing and maintaining records of patient progress and services performed. Potential job titles that use this solution are: Personal Care Aide, Home Health Aide, Residential Assistant, and Certified Nursing Assistant. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 30,
+        "test_type": ["Biodata & Situational Judgement","Personality and Behavior","Ability and Aptitude"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Home%20Health%20Aide%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+
+      {
+        "assessment_name": "Hospitality Manager Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/hospitality-manager-solution/",
+        "description": "The Hospitality Manager solution is designed for management level positions in the hospitality industry. Sample tasks include overall property management, managing staff and managing the guest experience. The solution is focused on managing business operations, managing staff, solving problems, making good decisions and maintaining focus on the customer. Potential job titles that use this solution are: Property Manager, Property Director, Hotel Manager and Hospitality Manager. Multiple configurations of this solution are available.",
+        "job_level": ["Front Line Manager","Manager, Supervisor"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 57,
+        "test_type": ["Biodata & Situational Judgement","Personality and Behavior","Ability and Aptitude","Knowledge and skills"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Hospitality%20Manager%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+
+      {
+        "assessment_name": "Host Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/host-solution/",
+        "description": "The Host solution is designed for entry level positions in the hospitality industry. Sample tasks include greeting guests, managing wait lists and showing guests to their tables. The solution is focused on work ethic and customer focus. Potential job titles that use this solution are: Host, Hostess and Greeter. There are multiple configurations and versions of this solution available.",
+        "job_level": ["Entry-Level"],
+        "languages": ["English (USA)"],
+        "duration_minutes": 30,
+        "test_type": ["Biodata & Situational Judgement","Personality and Behavior"],
+        "remote_testing": true,
+        "downloads": {
+          
+           "English (USA)": {
+            "fact_sheet":"https://service.shl.com/docs/Fact%20Sheet%20Hospitality%20Suite%20Host%20One%20Sitting_USE.pdf"
+           }
+        }
+      },
+
+      {
+        "assessment_name": "Industrial - Entry Level 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+        "description": "Our Industrial – Entry Level 7.0 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough. Potential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman",
+        "job_level": ["Entry-Level"],
+        "languages": ["French (Canada)", "English (USA)", "English International", "Latin American Spanish"],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+          
+            "Latin American Spanish": {
+                "detailed_report": "https://service.shl.com/docs/Industrial%20Entry%20Level%20Candidate%20Detailed%20Report%20NAS.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial%20Entry%20Level%20Candidate%20Interview%20Report%20NAS.pdf",
+                "development_report": "https://service.shl.com/docs/Industrial%20Entry%20Level%20Candidate%20Development%20Report%20NAS.pdf"
+              },
+              "English (USA)": {
+                "detailed_report": "https://service.shl.com/docs/Industrial_EntryLevel_DetailedReport.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial_EntryLevel_InterviewReport.pdf",
+                "development_report": "https://service.shl.com/docs/Industrial_EntryLevel_DevelopmentReport.pdf",
+                "product_fact_sheet": "https://service.shl.com/docs/7.0Industrial_EntryLevel_FactSheet(USE)v2.pdf"
+              }
+        }
+      },
+
+      {
+        "assessment_name": "Industrial - Entry Level 7.1 (Americas)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+        "description": "Our Industrial – Entry Level 7.1 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough. Potential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman",
+        "job_level": ["Entry-Level"],
+        "languages": ["French (Canada)", "English (USA)", "Portuguese (Brazil)", "Latin American Spanish"],
+        "duration_minutes": 20,
+        "test_type": ["Biodata & Situational Judgement"],
+        "remote_testing": true,
+        "downloads": {
+            "French(Canada)": {
+                "candidate_report":"https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_CandidateReport_CFR.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_DetailedReport_CFR.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_InterviewReport_CFR.pdf"
+              },
+          
+            "Latin American Spanish": {
+                "candidate_report":"https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_CandidateReport_ELA.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_DetailedReport_ELA.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_InterviewReport_ELA.pdf"
+              },
+              "English (USA)": {
+                "candidate_report":"https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_CandidateReport_USE.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_DetailedReport_USE.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_InterviewReport_USE.pdf"
+              }
+              ,
+              "Portuguese(Brazil)": {
+                "candidate_report":"https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_CandidateReport_BRA.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_DetailedReport_BRA.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_Americas_InterviewReport_BRA.pdf"
+              }
+        }
+      },
+      {
+        "assessment_name": "Industrial - Entry Level 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+        "description": "Our Industrial – Entry Level 7.1 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough. Potential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman.",
+        "job_level": [ "Entry-Level" ],
+        "languages": [ "Dutch", "Norwegian", "German", "English International", "Portuguese (Brazil)", "English (USA)", "French (Canada)" ],
+        "duration_minutes": 20,
+        "test_type": [ "Biodata & Situational Judgement" ],
+        "remote_testing": true,
+        "downloads": {
+    
+            "English International": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_INT.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_INT.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_INT.pdf"
+            },
+            "French (Canada)": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_CFR.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_CFR.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_CFR.pdf"
+            },
+            "English (USA)": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_USE.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_USE.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_USE.pdf"
+            },
+            "Dutch": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_NED.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_NED.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_NED.pdf"
+            },
+            "German": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_DEU.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_DEU.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_DEU.pdf"
+            },
+            "Norwegian": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_NOR.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_NOR.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_NOR.pdf"
+            },
+            "Portuguese (Brazil)": {
+                "candidate_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_CandidateReport_BRA.pdf",
+                "detailed_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_DetailedReport_BRA.pdf",
+                "interview_report": "https://service.shl.com/docs/Industrial-EntryLevel7.1_International_InterviewReport_BRA.pdf"
+            }
+        }
+    },{
+        "assessment_name": "Industrial - Professional and Skilled 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+        "description": "Our Industrial – Professional and Skilled 7.0 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. This solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work.",
+        "report_language_availability": [ "English (USA)", "Latin American Spanish" ],
+        "job_level": [ "Entry-Level" ],
+        "languages": [ "Latin American Spanish", "English (USA)", "English International", "French (Canada)" ],
+        "duration_minutes": 49,
+        "test_type": [ "Ability & Aptitude", "Biodata & Situational Judgement" ],
+        "remote_testing": true,
+        "downloads": {
+    
+            "Latin American Spanish": {
+                "industrial-professional_skilled_detailed_report": "https://service.shl.com/docs/Industrial%20Professional%20Skilled%20Candidate%20Detailed%20Report%20NAS.pdf",
+                "industrial-professional_skilled_development_report": "https://service.shl.com/docs/Industrial%20Professional%20Skilled%20Candidate%20Development%20Report%20NAS.pdf",
+                "industrial-professional_skilled_interview_report": "https://service.shl.com/docs/Industrial%20Professional%20Skilled%20Candidate%20Interview%20Report%20NAS.pdf"
+            },
+            "English (USA)": {
+                "product_fact_sheet": "https://service.shl.com/docs/7.0Industrial_Professional_FactSheet(USE)v2.pdf",
+                "industrial-professional_skilled_detailed_report": "https://service.shl.com/docs/Industrial_Skilled&Prof_DetailedReport.pdf",
+                "industrial-professional_skilled_development_report": "https://service.shl.com/docs/Industrial_Skilled&Prof_DevelopmentReport.pdf",
+                "industrial-professional_skilled_interview_report": "https://service.shl.com/docs/Industrial_Skilled&Prof_InterviewReport.pdf"
+            }
+        }
+    }
+
+  ]
